@@ -46,4 +46,4 @@ function calcularEstadisticas(calificaciones) {
   console.log("Promedio:", estadisticas.promedio);
   console.log("Calificación más alta:", estadisticas.calificacionMasAlta);
   console.log("Calificación más baja:", estadisticas.calificacionMasBaja);
-  
+   

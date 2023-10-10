@@ -22,7 +22,7 @@ function calcularMedia(numeros) {
     const varianza = sumatoria / numeros.length;
     return Math.sqrt(varianza);
   }
-  
+   
 
   function calcularEstadisticas() {
     const entrada = prompt("Ingrese una lista separadas por comas (por ejemplo, 12,15,20,25,30):");

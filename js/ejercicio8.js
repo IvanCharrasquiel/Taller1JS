@@ -40,4 +40,4 @@ function generarContrasena(longitud, incluirMayusculas, incluirNumeros, incluirC
   } else {
     alert("Por favor, ingrese opciones válidas.");
   }
-  
+    

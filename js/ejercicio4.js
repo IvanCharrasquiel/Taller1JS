@@ -6,7 +6,7 @@ function generarTablaMultiplicar(numero, filas) {
       console.log(`${numero} x ${i} = ${resultado}`);
     }
   }
-   
+    
   function mostrarLibros() {
     const numeroSeleccionado = parseInt(prompt("Ingrese un número para generar su tabla de multiplicar:"));
     const filasAMostrar = parseInt(prompt("Ingrese la cantidad de filas a mostrar:"));

@@ -30,7 +30,7 @@ function mostrarMenu() {
     const opcion = prompt(
       "Selecciona una opción:\n1. Agregar estudiante\n2. Buscar estudiante\n3. Salir"
     );
-  
+   
     switch (opcion) {
       case "1":
         agregarEstudiante();

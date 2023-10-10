@@ -39,4 +39,4 @@ const preguntasYRespuestas = [
   
 
   preguntar();
-  
+   

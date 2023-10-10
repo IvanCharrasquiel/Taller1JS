@@ -4,7 +4,7 @@ const numeroAleatorio = Math.floor(Math.random() * 100) + 1;
 function adivinarNumeroAleatorio() {
   const intento = prompt("Adivina el número entre 1 y 100:");
 
-  
+   
 
   const numeroUsuario = parseInt(intento);
 

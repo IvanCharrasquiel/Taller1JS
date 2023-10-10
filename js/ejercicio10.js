@@ -25,4 +25,4 @@ function calcularIMC(peso, altura) {
   } else {
     alert("Por favor, ingrese valores válidos.");
   }
-  
+   
